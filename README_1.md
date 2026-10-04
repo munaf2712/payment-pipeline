@@ -2,7 +2,7 @@
 
 A small, free, practice "payment system" that runs entirely on your Mac. No real money, no real bank, no cloud bill.
 
-It exists to practice the skills in the Jack Henry / Payrailz posting: C#/.NET backend services, AWS-style queues and events, databases, retries, duplicate prevention, and monitoring.
+It exists to practice the skills Payrailz posting: C#/.NET backend services, AWS-style queues and events, databases, retries, duplicate prevention, and monitoring.
 
 ---
 
