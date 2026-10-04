@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5aZaJKU648=",
+  "success": true,
+  "projectFilePath": "/Users/munafshaikh/Projects/payment-pipeline/src/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/munafshaikh/.nuget/packages/awssdk.core/4.0.102.8/awssdk.core.4.0.102.8.nupkg.sha512",
+    "/Users/munafshaikh/.nuget/packages/awssdk.sqs/4.0.100.15/awssdk.sqs.4.0.100.15.nupkg.sha512"
+  ],
+  "logs": []
+}
